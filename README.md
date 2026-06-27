@@ -8,14 +8,14 @@ I love using code and AI to build practical tools, automate workflows, and creat
 - **Web:** GitHub Pages, Creative Coding (p5.js)
 - **AI & Tools:** ChatGPT, Gemini, Claude, Copilot , Codex (trying to explore automation tools like Make, Zapier, n8n)
 
-## 🎨 projects
+## projects
 - **Creative Coding** – Visual experiments with p5.js, combining art and code.
 - **Sudoku Game** – Interactive web-based Sudoku built with HTML, CSS, and JavaScript.
 - **more...**
 
-## 🚀 What I'm interested in
+## What I'm interested in
 - AI usage for productive results(Claude , Gemini , chatgpt , Copilot , Codex)
 - Web Development and tools testing and optimisation
 - Media design(Flyers creation)
 
-👉 Portfolio: **https://marcelle237-alpha.github.io/My-Creations/**
+Portfolio: **https://marcelle237-alpha.github.io/My-Creations/**
